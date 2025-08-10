@@ -26,7 +26,7 @@ plt.rcParams.update({
 ###########################################################
 
 # Path to the Excel file with bond data
-excel_path = r'E:\bonos_completos_unificados.xlsx'  # Ajustar si es necesario
+excel_path = r'PUT THE PATH OF THE SAVED FILE, THE FILE IS CALLED Data US10Y vs Bund Germany 10Y_Only Return'
 df = pd.read_excel(excel_path, parse_dates=['Date'])
 
 # Eventos clave
