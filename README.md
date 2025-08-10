@@ -1,5 +1,6 @@
 # Master’s thesis: Analysis of Investment Strategies in Developed Markets During Periods of High Volatility (2007–2025)
-Author: Ever Jamil 
+Author: Ever Jamil
+
 Master's Degree in Stock Exchange and Financial Markets - June 2025 - Madrid, Spain
 
 ## Abstract
