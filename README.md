@@ -7,6 +7,8 @@ This Master's Final Project analyzes how market volatility influences investment
 
 The study collects and processes daily price and volatility data, mainly from the VIX index, applying quantitative and graphical time series analysis to compare the behavior of these assets before, during, and after high volatility episodes (2008 crisis, European debt crisis 2011, flash crash 2015, 2018 correction, COVID-19 2020, 2025 tensions).
 
+The analysis is structured in three separate Python scripts/windows, each focusing on a specific asset class (equities and Brent crude oil; gold and VIX; and government bonds US 10Y and German Bund 10Y). Two distinct Excel files serve as the primary data sources: one containing daily data for equities, Brent, gold, and volatility indices, and the other with detailed bond price and return data for US and German 10-year government bonds.
+
 The software tool used is Python, with scripts that automate event selection, return calculation, application of moving averages, and generation of visualizations to identify patterns such as flight to quality.
 
 This analysis helps to understand how portfolios are reconfigured in contexts of uncertainty, detecting early signals (such as drops in Brent or spikes in the VIX) that allow anticipating rotations toward defensive assets.
