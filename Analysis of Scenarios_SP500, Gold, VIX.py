@@ -27,7 +27,7 @@ plt.rcParams.update({
 #################################################################
 
 # Excel file path
-excel_path = r'E:\tfm activos.xlsx'
+excel_path = r'[PUT THE PATH OF THE SAVED FILE, THE FILE IS CALLED Data Assets_SP500, Gold, Vix, Brent and Others Indices]'
 
 # Load data
 df = pd.read_excel(excel_path, parse_dates=['Date'])
